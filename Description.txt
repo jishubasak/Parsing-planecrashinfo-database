@@ -1,0 +1,33 @@
+###############################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+About Plane Crash Info Database:-
+The aviation accident database includes: 
+All civil and commercial aviation accidents of scheduled and non-scheduled passenger airliners worldwide, which resulted in a fatality (including all U.S. Part 121 and Part 135 fatal accidents)
+All cargo, positioning, ferry and test flight fatal accidents. 
+All military transport accidents with 10 or more fatalities.
+All commercial and military helicopter accidents with greater than 10 fatalities.
+All civil and military airship accidents involving fatalities.
+Aviation accidents involving the death of famous people. 
+Aviation accidents or incidents of noteworthy interest.
+
+Note: Midair collisions list the number of people aboard and fatalities for both aircraft.
+Database Format
+Date:	 Date of accident,  in the format - January 01, 2001
+Time:	 Local time, in 24 hr. format unless otherwise specified
+Airline/Op:	 Airline or operator of the aircraft
+Flight #:	 Flight number assigned by the aircraft operator
+Route:	 Complete or partial route flown prior to the accident
+AC Type:	 Aircraft type
+Reg:	 ICAO registration of the aircraft
+cn / ln:	 Construction or serial number / Line or fuselage number
+Aboard:	 Total aboard (passengers / crew)
+Fatalities:	 Total fatalities aboard (passengers / crew)
+Ground:	 Total killed on the ground
+Summary:	 Brief description of the accident and cause if known
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+About Beautiful Soup Library:
+Beautiful Soup is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
+These instructions illustrate all major features of Beautiful Soup 4, with examples. I show you what the library is good for, how it works, how to use it, how to make it do what you want, and what to do when it violates your expectations.
+The examples in this documentation should work the same way in Python 2.7 and Python 3.2.
+You might be looking for the documentation for Beautiful Soup 3. If so, you should know that Beautiful Soup 3 is no longer being developed, and that Beautiful Soup 4 is recommended for all new projects. If you want to learn about the differences between Beautiful Soup 3 and Beautiful Soup 4, see Porting code to BS4.
+
+###############################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
